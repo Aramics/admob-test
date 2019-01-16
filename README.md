@@ -6,8 +6,10 @@ The base code is base on android official Interstitial test code, i only create 
 
 Only INTERTSTITIAL BANNER and REWARDED VIDEO is supported for now without any third mediation sdk implemented.
 
-Below are screenshot:
-![alt SCREEN1](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT1.png)
-![alt SCREEN2](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT2.png)
-![alt SCREEN3](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT3.png)
-![alt SCREEN4](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT4.png)
+[Download APK file here](https://github.com/Aramics/admob-test/raw/master/AdmobUnitTestKit.apk)
+
+Below are screenshot: <br/>
+<img src="https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT1.png" width="256" alt="SCREEN1" title="SCREEN 1"/>
+<img src="https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT2.png" width="256" alt="SCREEN2" title="SCREEN 2"/>
+<img src="https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT3.png" width="256" alt="SCREEN3" title="SCREEN 3"/>
+<img src="https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT4.png" width="256" alt="SCREEN4" title="SCREEN 4"/>
