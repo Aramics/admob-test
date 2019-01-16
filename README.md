@@ -7,3 +7,7 @@ The base code is base on android official Interstitial test code, i only create 
 Only INTERTSTITIAL BANNER and REWARDED VIDEO is supported for now without any third mediation sdk implemented.
 
 Below are screenshot:
+![alt SCREEN1](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT1.png)
+![alt SCREEN2](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT2.png)
+![alt SCREEN3](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT3.png)
+![alt SCREEN4](https://raw.githubusercontent.com/aramics/admob-test/master/screenshot/KIT4.png)
